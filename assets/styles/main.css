@@ -18,3 +18,5 @@ body.dark-mode {
 header {
   margin-top: 20px;
 }
+.footer { padding: 10px; }
+.footer-widgets { display: flex; }
