@@ -1,8 +1,4 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
+/* Subscribe Button */
 .subscribe-button {
   background-color: #007BFF;
   padding: 10px 20px;
@@ -13,6 +9,8 @@ body {
 .subscribe-button:hover {
   background-color: #0056b3;
 }
+
+/* Dark Theme */
 body.dark-mode {
   background-color: #121212;
   color: #ffffff;
