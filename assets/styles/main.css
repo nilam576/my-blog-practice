@@ -3,3 +3,13 @@ body {
   margin: 0;
   padding: 0;
 }
+.subscribe-button {
+  background-color: #007BFF;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.subscribe-button:hover {
+  background-color: #0056b3;
+}
